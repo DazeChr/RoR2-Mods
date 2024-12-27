@@ -1,5 +1,5 @@
 # RoR2-Mods
-Mods I have developed for Risk of Rain 2
+Mods I have developed for Risk of Rain 2 \
 https://thunderstore.io/package/LazyDazeDuo/
 
 Mods
